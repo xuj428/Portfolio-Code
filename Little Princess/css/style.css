@@ -1,0 +1,116 @@
+html, body {
+		padding:0;
+		margin:0;
+		width:100%;
+		height:6300px;
+		background-attachment:fixed;
+		}
+
+p{
+		font-family: sans-serif;
+		line-height: 25px;
+		
+		font-size: 18px;
+		margin-left:60px;
+
+	}
+#title_wrapper {
+	width:100%;
+	height:35%;
+}
+
+#title {
+	top:10%;
+	width:65%;
+	padding-top: 15%;
+	padding-left:17%;
+	
+}
+
+#easing_wrapper {
+	width:100%;
+	height:35%;
+}
+
+#easing {
+	top:10%;
+	width:50%;
+	
+	z-index:101;
+}
+
+#properties {
+	width:100%;
+	height:25%;
+	padding-top:10%;
+	
+}
+#properties p{
+	color:white;
+
+}
+
+#tree_wrapper{
+	width:100%;
+	height:25%;
+}
+#tree{
+	padding-top:5%;
+	width:35%;
+	z-index:101;
+}
+
+#textstyle{
+	width:100%;
+	height:25%;
+	margin-left:20%;
+	padding-top:10%;
+}
+
+#textstyle p{
+	color: white;
+}
+
+#fox_wrapper{
+	width:100%;
+	height:25%;
+}
+
+#fox{
+	padding-top:5%;
+	width:35%;
+	z-index:101;
+}
+
+#foxtext {
+	width:100%;
+	height:25%;
+	padding-top:10%;
+
+}
+
+#foxtext p{
+	color:#121052;
+
+}
+
+#prince_wrapper{
+	width:100%;
+	height:25%;
+}
+#prince{
+	padding-top:5%;
+	width:35%;
+	z-index:101;
+}
+
+#end_wrapper{
+	width:100%;
+	height:25%;
+}
+#end{
+	padding-top:37%;
+	width:25%;
+	
+}
+
